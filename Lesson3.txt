@@ -1,1 +1,2 @@
-Hi everyone!
+git stash (it's like commit but it can save even we do not do commit)
+git diff.. (It means what is the different between of them)
